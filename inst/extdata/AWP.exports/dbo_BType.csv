@@ -1,0 +1,14 @@
+BTypeCd,BName,BNameLowered,NewEntryText,FormSortOrder
+COAL,Coalitions,coalitions,"If Coalitions have been observed for this taxon, click here to create a new entry",9
+CONF,Conflict Resolution,conflict resolution,"If Conflict Resolution has been observed for this taxon, click here to create a new entry",1
+CULT,Culture,culture,Click here to create a new entry,12
+FOOD,Food Sharing,food sharing,"If Food Sharing has been observed for this taxon, click here to create a new entry",7
+HIER,Hierarchies,hierarchies,"If Hierarchies have been observed for this taxon, click here to create a new entry",8
+MASS,Mammalian Species Association,mammalian species association,"If this taxon is known to associate with other Mammalian species, please click here to create a new entry describing which species and the manner in which they associate",11
+MATE,Mating Behavior,mating behavior,Click here to create a new entry,5
+PASS,Primate Species Association,primate species association,"If this taxon is known to associate with other Primate species, please click here to create a new entry describing which species and the manner in which they associate",10
+SCNT,Scent Marking Behavior,scent marking behavior,"If Scent Marking Behavior has been observed for this taxon, click here to create a new entry",4
+SLEE,Sleeping Sites,sleeping sites,Click here to create a new entry,3
+SUPP,Reproductive Suppression,reproductive suppression,"If Reproductive Suppression has been observed for this taxon, click here to create a new entry",6
+TOOL,Tool Use,tool use,"If Tool Use has been observed for this taxon, click here to create a new entry",13
+VOCA,Vocalizations,vocalizations,Click here to create a new entry,2

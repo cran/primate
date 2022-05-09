@@ -1,0 +1,19 @@
+TextTypeID,TextName,TextNameLowered
+1,Characteristics,characteristics
+2,Other Life History,other life history
+3,Environment,environment
+4,Other Social Structure,other social structure
+5,Locomotion,locomotion
+6,Notable Risk,notable risk
+7,OPM,opm
+8,Other Habitat,other habitat
+9,Range,range
+10,Taxonomy,taxonomy
+11,Food - All Plant,food - all plant
+12,Food - Key Plant,food - key plant
+13,Food - Other,food - other
+14,Food - Process,food - process
+15,Food - Special,food - special
+16,Other Behavior,other behavior
+17,Predators,predators
+18,Population Estimate,population estimate

@@ -1,0 +1,24 @@
+FoodTypeID,FoodName,FoodNameLowered,UnitDesc,FormSortOrder
+1,Total # of Plants,total # of plants,in Diet,23
+2,Amphibians,amphibians,% of Diet,18
+3,Animal matter unspecified,animal matter unspecified,% of Diet,22
+4,Bark,bark,% of Diet,9
+5,Birds,birds,% of Diet,20
+6,Buds,buds,% of Diet,13
+7,Charcoal,charcoal,% of Diet,11
+8,Flowers,flowers,% of Diet,6
+9,Fruits,fruits,% of Diet,1
+10,Gums,gums,% of Diet,7
+11,Honey,honey,% of Diet,14
+12,Insects,insects,% of Diet,16
+13,Other invertebrates,other invertebrates,% of Diet,17
+14,Insect larvae,insect larvae,% of Diet,15
+15,Leaves unspecified,leaves unspecified,% of Diet,5
+16,Mature leaves,mature leaves,% of Diet,4
+17,Young leaves,young leaves,% of Diet,3
+18,Lichens,lichens,% of Diet,10
+19,Mammals,mammals,% of Diet,21
+20,Nectar,nectar,% of Diet,8
+21,Reptiles,reptiles,% of Diet,19
+22,Seeds,seeds,% of Diet,2
+23,Soil,soil,% of Diet,12

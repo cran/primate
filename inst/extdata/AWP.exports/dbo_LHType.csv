@@ -1,0 +1,16 @@
+LHTypeCd,LHName,LHNameLowered,UnitDesc,Gender,FormSortOrder
+BDSF,Birthing - Dry Season,birthing - dry season,season,F,13
+BIF,Birth Interval,birth interval,months,F,5
+BWSF,Birthing - Wet Season,birthing - wet season,season,F,14
+BYRF,Birthing - Year Round,birthing - year round,season,F,15
+ECF,Ovarian Cycle,ovarian cycle,days,F,8
+FBAF,Mother's Age at First Birth,mother's age at first birth,months,F,4
+GPF,Gestation Period,gestation period,days,F,0
+JARB,Juvenile Age Range,juvenile age range,months,B,2
+LSB,Life Span,life span,years,B,7
+MDSB,Mating - Dry Season,mating - dry season,season,B,10
+MWSB,Mating - Wet Season,mating - wet season,season,B,11
+MYRB,Mating - Year Round,mating - year round,season,B,12
+SARB,Subadult Age Range,subadult age range,months,B,3
+SMB,Sexual Maturity,sexual maturity,months,B,6
+WDB,Birth to Weaned,weaning duration,days,B,1

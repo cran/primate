@@ -1,0 +1,8 @@
+LMTypeCd,LMName,LMNameLowered,FormSortOrder
+BIPE,Bipedal,bipedal,1
+BRAC,Brachiation,brachiation,2
+CLIM,Climbing,climbing,3
+LEAP,Leaping,leaping,4
+QUAD,Quadrupedal,quadrupedal,5
+SUSP,Suspensory,suspensory,6
+VERT,Vertical Clinging and Leaping,vertical clinging and leaping,7

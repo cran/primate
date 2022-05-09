@@ -1,0 +1,79 @@
+PMTypeID,PMName,PMNameLowered,UnitDesc,Gender,FormSortOrder
+1,"Intermembral Index, Both","intermembral index, both",,B,1
+2,"Diploid Number, Both","diploid number, both",(2n),B,2
+3,"Head & Body Length, Males","head & body length, males",mm,M,3
+4,"Head & Body Length, Females","head & body length, females",mm,F,4
+5,"Head & Body Length, Both","head & body length, both",mm,B,5
+6,"Skull Length, Males","skull length, males",mm,M,6
+7,"Skull Length, Females","skull length, females",mm,F,7
+8,"Skull Length, Both","skull length, both",mm,B,8
+9,"Tail Length, Males","tail length, males",mm,M,12
+10,"Tail Length, Females","tail length, females",mm,F,13
+11,"Tail Length, Both","tail length, both",mm,B,14
+12,"Weight, Males","weight, males",g,M,15
+13,"Weight, Females","weight, females",g,F,16
+14,"Weight, Both","weight, both",g,B,17
+15,"Brain Weight, Males","brain weight, males",g,M,18
+16,"Brain Weight, Females","brain weight, females",g,F,19
+17,"Brain Weight, Both","brain weight, both",g,B,20
+18,"Canine Length, Males","canine tooth, males",mm,M,21
+19,"Canine Length, Females","canine tooth, females",mm,F,22
+20,"Canine Length, Both","canine tooth, both",mm,B,23
+21,"Penis Length, Males","penis length, males",mm,M,42
+22,"Skull Breadth, Males","skull breadth, males",mm,M,9
+23,"Skull Breadth, Females","skull breadth, females",mm,F,10
+24,"Skull Breadth, Both","skull breadth, both",mm,B,11
+25,"Mandibular Mesiodistal, Males","mandibular mesiodistal, males",mm,M,24
+26,"Mandibular Mesiodistal, Females","mandibular mesiodistal, females",mm,F,25
+27,"Mandibular Mesiodistal, Both","mandibular mesiodistal, both",mm,B,26
+28,"Mandibular Crown Height, Males","mandibular crown height, males",mm,M,27
+29,"Mandibular Crown Height, Females","mandibular crown height, females",mm,F,28
+30,"Mandibular Crown Height, Both","mandibular crown height, both",mm,B,29
+31,"Mandibular Buccolingual, Males","mandibular buccolingual, males",mm,M,30
+32,"Mandibular Buccolingual, Females","mandibular buccolingual, females",mm,F,31
+33,"Mandibular Buccolingual, Both","mandibular buccolingual, both",mm,B,32
+34,"Maxillary Mesiodistal, Males","maxillary mesiodistal, males",mm,M,33
+35,"Maxillary Mesiodistal, Females","maxillary mesiodistal, females",mm,F,34
+36,"Maxillary Mesiodistal, Both","maxillary mesiodistal, both",mm,B,35
+37,"Maxillary Crown Height, Males","maxillary crown height, males",mm,M,36
+38,"Maxillary Crown Height, Females","maxillary crown height, females",mm,F,37
+39,"Maxillary Crown Height, Both","maxillary crown height, both",mm,B,38
+40,"Maxillary Buccolingual, Males","maxillary buccolingual, males",mm,M,39
+41,"Maxillary Buccolingual, Females","maxillary buccolingual, females",mm,F,40
+42,"Maxillary Buccolingual, Both","maxillary buccolingual, both",mm,B,41
+43,"Testicle Width, Males","testicle width, males",mm,M,43
+44,"Testicle Length, Males","testicle length, males",mm,M,44
+45,"Testicular Volume, Males","testicular volume, males",cc,M,45
+46,"Ear Length, Males","ear length, males",mm,M,46
+47,"Ear Length, Females","ear length, females",mm,F,47
+48,"Ear Length, Both","ear length, both",mm,B,48
+49,"Hindlimb Length, Males","hindlimb length, males",mm,M,49
+50,"Hindlimb Length, Females","hindlimb length, females",mm,F,50
+51,"Hindlimb Length, Both","hindlimb length, both",mm,B,51
+52,"Tibia Length, Males","tibia length, males",mm,M,52
+53,"Tibia Length, Females","tibia length, females",mm,F,53
+54,"Tibia Length, Both","tibia length, both",mm,B,54
+55,"Hindfoot Length, Males","hindfoot length, males",mm,M,55
+56,"Hindfoot Length, Females","hindfoot length, females",mm,F,56
+57,"Hindfoot Length, Both","hindfoot length, both",mm,B,57
+58,"Hallux Length, Males","hallux length, males",mm,M,58
+59,"Hallux Length, Females","hallux length, females",mm,F,59
+60,"Hallux Length, Both","hallux length, both",mm,B,60
+61,"Forelimb Length, Males","forelimb length, males",mm,M,61
+62,"Forelimb Length, Females","forelimb length, females",mm,F,62
+63,"Forelimb Length, Both","forelimb length, both",mm,B,63
+64,"Ulna Length, Males","ulna length, males",mm,M,64
+65,"Ulna Length, Females","ulna length, females",mm,F,65
+66,"Ulna Length, Both","ulna length, both",mm,B,66
+67,"Front Foot Length, Males","front foot length, males",mm,M,67
+68,"Front Foot Length, Females","front foot length, females",mm,F,68
+69,"Front Foot Length, Both","front foot length, both",mm,B,69
+70,"Pollex Length, Males","pollex length, males",mm,M,70
+71,"Pollex Length, Females","pollex length, females",mm,F,71
+72,"Pollex Length, Both","pollex length, both",mm,B,72
+73,"Chest Circumference, Males","chest circumference, males",mm,M,73
+74,"Chest Circumference, Females","chest circumference, females",mm,F,74
+75,"Chest Circumference, Both","chest circumference, both",mm,B,75
+76,"Neck Circumference, Males	","neck circumference, males	",mm,M,76
+77,"Neck Circumference, Females","neck circumference, females",mm,F,77
+78,"Neck Circumference, Both","neck circumference, both",mm,B,78

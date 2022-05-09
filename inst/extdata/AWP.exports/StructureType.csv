@@ -1,0 +1,29 @@
+StructureTypeCd,StructureName,StructureNameLowered,FormSortOrder
+1M1F,1 Male - 1 Female,1 male - 1 female,2
+1MMF,1 Male - Multifemale,1 male - multifemale,4
+ALLO,Allomothering - unspecified,allomothering - unspecified,11
+ARBO,Arboreal,arboreal,7
+BEMI,Both Male and Female Emigration,both male and female emigration,28
+CATH,Cathemeral,cathemeral,9
+COMM,Community,community,23
+DIUR,Diurnal,diurnal,8
+ECM,Exclusive Maternal Care,exclusive maternal care,12
+FDOM,Female Dominance,female dominance,6
+FEMI,Female Emigration,female emigration,27
+FIFU,Fission - Fusion,fission - fusion,21
+HIER,Hierarchical,hierarchical,24
+INFA,Infanticide observed,infanticide observed,25
+MDOM,Male Dominance,male dominance,19
+MEMI,Male Emigration,male emigration,26
+MM1F,Multimale - 1 Female,multimale - 1 female,5
+MMMF,Multimale - Multifemale,multimale - multifemale,3
+MONO,Monogamous,monogamous,20
+NOCT,Nocturnal,nocturnal,10
+PC,Paternal Care,paternal care,14
+PCP,"Paternal Care, provisioning","paternal care, provisioning",15
+SC,Shared Care,shared care,13
+SCP,"Shared Care, provisioning","shared care, provisioning",16
+SCS,Shared Care and suckling,shared care and suckling,17
+SCSP,"Shared Care and suckling, prov.","shared care and suckling, prov.",18
+SOLI,Solitary,solitary,1
+TERR,Terrestrial,terrestrial,22

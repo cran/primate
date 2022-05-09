@@ -1,0 +1,16 @@
+HMTypeCd,HMName,HMNameLowered,UnitDesc,FormSortOrder
+1020,10M - 20M,10m - 20m,% of time,11
+2030,20M - 30M,20m - 30m,% of time,12
+3040,30M - 40M,30m - 40m,% of time,13
+40+,Above 40M,above 40m,% of time,14
+510,5M - 10M,5m - 10m,% of time,10
+AFH,Avg. Forest Height,avg. forest height,m,15
+ANNR,Annual Rainfall,annual rainfall,cm/yr.,7
+ATMP,Mean Annual Temperature,mean annual temperature,°C,4
+DRYR,Dry Season,dry season,cm/mo.,6
+ELEV,Elevation,elevation,m,1
+G5,Ground to 5M,ground to 5m,% of time,9
+GRND,Ground,ground,% of time,8
+HTMP,Highest Temperature,highest temperature,°C,2
+LTMP,Lowest Temperature,lowest temperature,°C,3
+WETR,Wet Season,wet season,cm/mo.,5

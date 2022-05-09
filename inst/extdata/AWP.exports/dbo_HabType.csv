@@ -1,0 +1,41 @@
+HabTypeCd,HabName,HabNameLowered,FormSortOrder
+ACAC,Acacia,acacia,1
+BAMB,Bamboo,bamboo,2
+BLAC,Black Water,black water,3
+BROA,Broadleaf,broadleaf,4
+CLOU,Cloud Forest,cloud forest,7
+COAS,Coastal,coastal,6
+CONI,Coniferous,coniferous,5
+DDRY,Deciduous Dry,deciduous dry,9
+DECI,Deciduous,deciduous,8
+DESE,Desert,desert,10
+DIPT,Dipterocarpel,dipterocarpel,11
+DRYF,Dry Forest,dry forest,12
+EDGE,Edge,edge,13
+EVER,Evergreen,evergreen,14
+FLOO,Flooded,flooded,15
+GALL,Gallery,gallery,16
+KARS,Karst,karst,17
+LOWL,Lowland,lowland,18
+MANG,Mangrove,mangrove,19
+MONT,Montane,montane,20
+PEAT,Peat,peat,21
+PRIM,Primary,primary,22
+RAIN,Rain Forest,rain forest,23
+REMN,Remnant,remnant,24
+RIVE,Riverine,riverine,25
+SAVA,Savannah,savannah,26
+SCRU,Scrub,scrub,27
+SEAS,Seasonal,seasonal,28
+SECO,Secondary,secondary,29
+SEMI,Semideciduous,semideciduous,30
+SPIN,Spiny Desert,spiny desert,31
+SUBT,Subtropical,subtropical,32
+SWAM,Swamp,swamp,33
+TEMP,Temperate,temperate,34
+TERR,Terra Firma,terra firma,35
+THOR,Thorn Scrub,thorn scrub,36
+TREE,Tree Plantation,tree plantation,37
+TROP,Tropical,tropical,0
+WSAN,White Sand,white sand,39
+WWAT,White Water,white water,40

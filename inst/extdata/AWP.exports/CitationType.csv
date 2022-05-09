@@ -1,0 +1,12 @@
+CitationTypeID,TypeName,TypeNameLowered
+1,Book,book
+2,Conference Proceeding,conference proceeding
+3,Dissertation,dissertation
+4,Electronic Journal,electronic journal
+5,Journal Article,journal article
+6,Magazine,magazine
+7,Other,other
+8,Personal Communication,personal communication
+9,Personal Observation,personal observation
+10,Unpublished Data,unpublished data
+11,Website,website
